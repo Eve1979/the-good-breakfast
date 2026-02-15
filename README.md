@@ -8,7 +8,7 @@ Estructurar el contenido de una página web mediante etiquetas HTML.
 
 - Utiliza la lista de etiquetas que se adjunta para crear algo similar al siguiente diseño:
 
-[Urban Toast](https://imgur.com/DhgcTot.png)
+![Urban Toast](https://imgur.com/DhgcTot.png)
 
 ### Iteración 1
 
